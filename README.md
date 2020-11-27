@@ -40,7 +40,7 @@ while(1) {}
  ![Диспетчер устройств и конфигурация PuTTY](Screenshots/PuTTY_conf.PNG "Диспетчер устройств и конфигурация PuTTY")
  
  # Пример работы в Realterm
-  ![Конфигурация Realterm](Screenshots/Realterm_conf.PNG "Диспетчер устройств и конфигурация PuTTY")
+  ![Конфигурация Realterm](Screenshots/Realterm_conf.PNG "Конфигурация Realterm")
   ![Привет, GitHub!](Screenshots/Realterm_hi_github.PNG "Привет, GitHub!")
   ![Отправка hello](Screenshots/Realterm_hello.PNG "Отправка hello")
  
